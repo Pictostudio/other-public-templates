@@ -1,0 +1,25 @@
+/* =================================================== /
+  Project Name - CSS Reset Template
+  Author       - Jordan Picton
+  Branch       - Pictostudio
+  Date & Time  - 04/08/2024 - 15:26:48
+/ ==================================================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	text-wrap: balance;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+	font-style: italic;
+	background-repeat: no-repeat;
+	background-size: cover;
+	shape-margin: 1rem;
+}
