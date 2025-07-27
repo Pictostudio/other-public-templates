@@ -1,0 +1,248 @@
+:root {
+  /*--- White Colour Codes ---*/
+  --white-on-white: #EDEFEF;
+  --rose-white: #FFFAFA;
+  --white-dove: #F0EFE7;
+  --titan-white: #EEEEFF;
+  --greek-vanilla: #F0EBE3;
+  --vista-white: #FDFCFA;
+  --bone: #E3DAC9;
+  --daisy: #FAFAFA;
+  --mercury: #E7E7E7;
+  --cascading-white: #F7F5F6;
+  --simply-white: #EFEDE3;
+  --paper-white: #F7FCFE;
+  --anti-flash-white: #F2F3F4;
+  --swan-white: #FCFCFC;
+  --white-wisp: #E9E9E4;
+  --alabaster: #EDEAE0;
+  --soft-peach: #F6F1F4;
+  --natural-white: #EEECE6;
+  --shadow-white: #EEF1EA;
+  --bright-white: #F4F5F0;
+  --vivid-white: #F8F8F4;
+  --floral-white: #FFFAF0;
+  --white-diamond: #E7E8E2;
+  --spring: #F3F0E8;
+  --ceramic: #FCFFF9;
+  --orange-white: #F8F9F5;
+  --ghost-white: #F8F8FF;
+  --pearl: #FBFCF8;
+  --old-wood: #F0EEE4;
+  --link-white: #ECF3F9;
+  --snow-drift: #F8FBF8;
+  --rice: #FAF5EF;
+  --powdered-sugar: #FDFCFA;
+  --milk: #FDFFF5;
+  --frost: #F4F8FF;
+  --egg-shell: #F8FEFF;
+  --winter: #F9FDFE;
+  --blanc-de-blanc: #EFEFEF;
+  --platinum: #F5F5F5;
+  --snow-white: #F0F0EC;
+  --sea-shell: #FFF5EE;
+  --parchment: #FCF5E5;
+  --porcelain: #F8FBF8;
+  --milky-white: #F3F3F3;
+  --dough: #FBFAF5;
+
+  /*--- Black Colour Codes ---*/
+  --parisian-night: #323441;
+  --cool-black: #151922;
+  --crow: #0D0907;
+  --black-chestnut: #252321;
+  --basalt-black: #4D423E;
+  --black-eel: #463E3F;
+  --slate: #26282A;
+  --leather: #0B0705;
+  --black-grain: #2C2C2A;
+  --night-shadow: #1C1C1C;
+  --night: #0C090A;
+  --raisin-black: #242124;
+  --pitch-black: #27251F;
+  --metal: #0E0C0A;
+  --raven: #050301;
+  --licorice: #1A1110;
+  --blackberry: #3A3A38;
+  --black-rock: #010127;
+  --onyx: #353839;
+  --frost-black: #191C20;
+  --asphalt: #0C0404;
+  --iridium: #3D3C3A;
+  --charcoal: #36454F;
+  --oil: #3B3131;
+  --jet: #343434;
+  --vampire-black: #0F0404;
+  --panda-black: #3C4748;
+  --chocolate: #1B1811;
+  --woodsmoke: #2B3230;
+  --metropolis: #1A1A1A;
+  --rich-black: #0A0A0A;
+  --smoky-black: #101720;
+  --black-olive: #242526;
+  --coffee-bean: #1B1B1B;
+
+  /*--- Grey Colour Codes ---*/
+  --dim-grey: #696969;
+  --grey-goose: #D1D0CE;
+  --marengo: #4C5866;
+  --nickel: #727472;
+  --silver-chalice: #ACACAC;
+  --scorpion: #5E5E5E;
+  --carbon-grey: #625D5D;
+  --nevada: #666A6D;
+  --perfect-grey: #A1A1A1;
+  --cadet-grey: #91A3B0;
+  --grey-wolf: #504A4B;
+  --jet-grey: #616D73;
+  --electric-grey: #BEC3C6;
+  --french-grey: #B4B19A;
+  --grey-dolphin: #5C5858;
+  --oxford-grey: #8391A1;
+  --grey-cloud: #B6B6B4;
+  --sonic-grey: #757575;
+
+  /*--- Red Colour Codes ---*/
+  --desire: #EA3C53;
+  --flame-red: #E25822;
+  --sangria: #5E1914;
+  --prismatic-red: #D03D33;
+  --candy-apple: #FF0800;
+  --light-coral: #F17881;
+  --fire-opal: #E7525B;
+  --crimson: #D81A37;
+  --maroon: #800000;
+  --arsenal: #DB0007;
+  --raspberry: #D21F3C;
+  --bills-red: #C60C30;
+  --pastel-red: #FF6961;
+  --chili-red: #C21807;
+  --ferrari: #FF2800;
+  --apple: #A91B0D;
+  --jam: #60100B;
+  --lipstick: #9B1003;
+  --pinterest-red: #E60023;
+  --light-salmon: #FFA07A;
+  --tomato: #FF6347;
+  --rosewood: #65000B;
+  --man-utd-red: #DA291C;
+  --chestnut: #BC4749;
+
+  /*--- Green Colour Codes ---*/
+  --shrek-green: #C4D300;
+  --dollar-bill: #85BB65;
+  --road-sign-green: #01735C;
+  --paris-green: #50C878;
+  --irish-green: #009A44;
+  --green-grey: #5E716A;
+  --bottle-green: #006A4E;
+  --android-green: #32DE84;
+  --jungle-green: #29AB87;
+  --up-forest-green: #014421;
+  --medium-sea: #3CB371;
+  --hunter-green: #386641;
+  --celery: #A7C957;
+  --asparagus: #6A994E;
+
+  /*--- Blue Colour Codes ---*/
+  --boeing-blue: #0039A6;
+  --maya-blue: #73C2FB;
+  --sapphire-blue: #0F52BA;
+  --yale-blue: #00356B;
+  --everton-blue: #003399;
+  --powder-blue: #B0E0E6;
+  --cornflower-blue: #6495ED;
+  --aquamarine: #6BCAE2;
+  --arctic-blue: #C6E6FB;
+  --dell-blue: #0076CE;
+  --blue-grey: #98AFC7;
+  --ultramarine: #120A8F;
+  --ford: #2C3968;
+  --chelsea: #034694;
+  --pantone-blue: #0018A8;
+  --space-cadet: #1D2951;
+  --true-blue: #0073CF;
+  --navy: #0A1172;
+  --sky: #63C5DA;
+  --berry: #241571;
+  --cobalt: #1338BE;
+  --facebook-blue: #1877F2;
+  --air-force-blue: #00308F;
+  --tottenham-navy: #132257;
+  --neon-blue: #1E90FF;
+  --indigo-dye: #00416A;
+
+  /*--- Yellow Colour Codes ---*/
+  --bumblebee: #FCE205;
+  --minion-yellow: #F5E050;
+  --royal-yellow: #FADA5E;
+  --cream: #FFFFCC;
+  --sunflower: #FFDA03;
+  --mcdonalds: #FFC72C;
+  --real-madrid: #FEBE10;
+  --parmesan: #FDE992;
+  --macaroon: #F9E076;
+  --latte: #E7C27D;
+  --corn: #FBEC5D;
+  --school-bus: #FFD800;
+  --lemon: #FFF700;
+  --mustard: #FEDC56;
+  --pastel-yellow: #FDFD96;
+
+  /*--- Orange Colour Codes ---*/
+  --aesthetic-orange: #F4AB6A;
+  --apricot-orange: #FBCEB1;
+  --bright-orange: #E24C00;
+  --royal-orange: #FF9944;
+  --vivid-orange: #FF5E0E;
+  --pantone-orange: #FE5000;
+  --tigers-eye: #E08D3C;
+  --dragon-fire: #FD652D;
+  --pastel-orange: #FEBA4F;
+  --greek-orange: #E06E04;
+  --tiger: #F96815;
+  --irish-orange: #F5883F;
+  --pumpkin: #FF7518;
+  --dusty-orange: #E27A53;
+  --spring-orange: #FD963D;
+
+  /*--- Brown Colour Codes ---*/
+  --mocha-mousse: #A47864;
+  --chocolate: #2E1503;
+  --peanut: #795C34;
+  --cinnamon: #652A0E;
+  --walnut: #432616;
+  --caramel: #AF6F09;
+  --mocha: #3C280D;
+  --butter-toast: #D2AD84;
+  --brown-sugar: #A17249;
+  --coffee: #6F4E37;
+  --mandys-pink: #F4C095;
+
+
+  /*--- Purple Colour Codes ---*/
+  --plum: #DDA0DD;
+  --mulberry: #C54B8C;
+  --affair: #6F4685;
+  --lipstick-stain: #8E4785;
+  --imperial-purple: #602F6B;
+  --true-purple: #6A0DAD;
+  --ultra-violet: #645394;
+  --pearly-purple: #B768A2;
+  --english-violet: #563C5C;
+  --purple-heart: #7442C8;
+  --eggplant: #311432;
+  --periwinkle: #BE93D4;
+  --amethyst: #A45EE5;
+  --grape: #6F2DA8;
+  --lavender: #B57EDC;
+
+  /*--- Pink Colour Codes ---*/
+  --vanilla-ice: #F38BB2;
+  --light-hot-pink: #F7AEE8;
+  --bubblegum: #FD5DA8;
+  --barbie-pink: #E0218A;
+  --watermelon: #FC6C85;
+  --french-pink: #F64A8A;
+  --flamingo: #FC8EAC;
+}
