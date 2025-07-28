@@ -29,12 +29,12 @@ This repository is a collection of different templates that can be used by anyon
 ## Tech Stack
 <div>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-  <img style="width:50px;" src="https://static-00.iconduck.com/assets.00/html-icon-1451x2048-69sehqrp.png"/>
+  <img style="width:50px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img style="width:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/>
+  <img style="width:50px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img style="width:50px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg"/>
+  <img style="width:50px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
 </a>
 </div>
